@@ -4,9 +4,8 @@ class Landing extends Component {
   render() {
     return (
       <div className="landing">
-        <h1>Welcome to your new MERRN app!</h1>
-        <p>Redux and Redux-Form are already hooked up for you.</p>
-        <p>Don't forget to connect your server to MLab and Heroku!</p>
+        <h1>Remedy Home Furniture</h1>
+        <p>Custom home furniture in Kansas City.</p>
       </div>
     );
   }
