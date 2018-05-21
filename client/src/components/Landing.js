@@ -5,7 +5,7 @@ class Landing extends Component {
     return (
       <div className="landing">
         <h1>Remedy Home Furniture</h1>
-        <p>Custom home furniture in Kansas City.</p>
+        <p>Custom home furniture built in Kansas City.</p>
       </div>
     );
   }
