@@ -1,7 +1,7 @@
 {
-  "name": "merrn-simple-starter",
+  "name": "remedy",
   "version": "1.0.0",
-  "description": "A starting point for any apps made with MongoDB, Express, React, Redux, and Node, to be deployed on Heroku.",
+  "description": "A website for a home furniture business.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
